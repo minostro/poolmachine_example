@@ -1,6 +1,6 @@
 [{<<"poolmachine">>,
   {git,"https://github.com/minostro/poolmachine.git",
-       {ref,"60d8335dc0e34a9f7772805f50bd747a2994451e"}},
+       {ref,"05c352aab64fb3ba208361e922b7a3819f793a9b"}},
   0},
  {<<"erlforce">>,
   {git,"https://github.com/igb/ErlForce.git",
