@@ -1,4 +1,12 @@
 [{<<"poolmachine">>,
   {git,"https://github.com/minostro/poolmachine.git",
-       {ref,"a84822b9d923961dc3782e296aadda83a106bcc7"}},
+       {ref,"60d8335dc0e34a9f7772805f50bd747a2994451e"}},
+  0},
+ {<<"erlforce">>,
+  {git,"https://github.com/igb/ErlForce.git",
+       {ref,"a5f31f5257eca294657a81946f3d2a98d452a905"}},
+  0},
+ {<<"epgsql">>,
+  {git,"https://github.com/epgsql/epgsql.git",
+       {ref,"9f52f198c15a7f5d364c3dd8413030e9d02e4e80"}},
   0}].

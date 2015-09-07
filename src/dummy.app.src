@@ -8,6 +8,9 @@
     stdlib,
     poolmachine
    ]},
-  {env,[]},
+  {env,[{salesforce_credentials, ["email",
+                                  "password",
+                                  "token",
+                                  "https://test.salesforce.com/services/Soap/u/24.0"]}]},
   {modules, []}
  ]}.
